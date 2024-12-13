@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/1185818338_746331268_223132457.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/624642324_2324722386_1798454536.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/624642324_977695008_1244052676.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/624642324_3890345977_3283932510.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/624642324_3182621414_296574069.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/shifting_trig/624642324_3890345977_2753630479.mp4'

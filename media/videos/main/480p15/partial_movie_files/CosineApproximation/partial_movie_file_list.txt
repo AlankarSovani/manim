@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/CosineApproximation/1185818338_1878805225_1694867430.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/CosineApproximation/624642324_2253920223_686205866.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/CosineApproximation/624642324_2227131322_1297356319.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/CosineApproximation/624642324_1241293956_2221539112.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/CosineApproximation/624642324_1066485964_1974314490.mp4'

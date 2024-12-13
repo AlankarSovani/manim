@@ -1,0 +1,9 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\begin{center}
+Take sequences $a_n$, $b_n$, and $c_n$ such that\\$a_n \sim b_n$ and $b_n \sim c_n$.\\$\lim (b_n - a_n) = 0$ and $\lim (c_n - b_n) = 0$.\\By the triangle inequality: $|c_n - a_n| \leq |c_n - b_n| + |b_n - a_n|$.\\Taking the limit: $\lim |c_n - a_n| \leq \lim |c_n - b_n| + \lim |b_n - a_n|$.\\Since both terms on the right-hand side are zero, \\$\lim |c_n - a_n| = 0$.\\Thus, $a_n \sim c_n$.
+\end{center}
+\end{document}

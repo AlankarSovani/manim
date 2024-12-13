@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/copilot-test/480p15/partial_movie_files/SinToCos/1185818338_55287300_223132457.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/copilot-test/480p15/partial_movie_files/SinToCos/624642324_1141282389_2488676960.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/copilot-test/480p15/partial_movie_files/SinToCos/624642324_2291568300_241332214.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/copilot-test/480p15/partial_movie_files/SinToCos/624642324_1141282389_1224572806.mp4'

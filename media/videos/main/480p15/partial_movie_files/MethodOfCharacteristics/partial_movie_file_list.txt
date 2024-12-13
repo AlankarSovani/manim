@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2550307886_153002874_223132457.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_3438219438_2661460911.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_3700893837_1647957008.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_1000977963_3092818924.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_1672911841_379131979.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_1054191304_3414024008.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_1253560008_718658882.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_3494816192_1685835848.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_1500634862_2987542364.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/2732211768_3494816192_4002177389.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/1429707924_1995742344_2285794957.mp4'
+file 'file:C:/Users/alank/OneDrive/Desktop/manim/media/videos/main/480p15/partial_movie_files/MethodOfCharacteristics/4176367589_3163631993_2366182954.mp4'
